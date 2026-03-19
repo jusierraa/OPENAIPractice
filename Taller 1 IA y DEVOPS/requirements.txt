@@ -1,0 +1,15 @@
+# Red Social — Taller 1 IA y DEVOPS
+# Requiere Python >= 3.10
+#
+# Este proyecto no tiene dependencias externas.
+# Usa únicamente módulos de la librería estándar de Python:
+#
+#   sqlite3      — Base de datos local (incluido en Python)
+#   hashlib      — Hash SHA-256 para contraseñas (incluido en Python)
+#   abc          — Clases abstractas / interfaces SOLID (incluido en Python)
+#   dataclasses  — Modelos de dominio (incluido en Python)
+#   os           — Manejo de rutas y archivos (incluido en Python)
+#   sys          — Configuración de codificación UTF-8 (incluido en Python)
+#
+# Para ejecutar:
+#   python main.py

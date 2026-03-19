@@ -1,0 +1,14 @@
+# Base de datos SQLite generada en tiempo de ejecución
+*.db
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.env
+venv/
+.venv/
+env/
